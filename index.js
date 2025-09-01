@@ -48,11 +48,6 @@ function updateNavbar() {
         <button class="button is-danger is-dark" id='logout'>
             Logout
         </button>
-        <a class="button is-primary is-dark" href ="https://github.com/dhairyagothi">
-                  <strong>GitHub</strong>  
-        </a>
-        
-        </a>
         `
 
         document.getElementById('logout').addEventListener('click', () => {
@@ -62,14 +57,7 @@ function updateNavbar() {
     } else {
         // buttons to append if login not present
        
-        buttons.innerHTML = `
-        <a class="button is-primary is-dark" href ="https://github.com/dhairyagothi">
-                  <strong>GitHub</strong>
-                </a>
-               
-                <a class="button is-success is-light" href="/public/Login.html">
-                  Log in
-                </a>`
+        buttons.innerHTML = ``
     }
 }
 document.addEventListener('DOMContentLoaded', updateNavbar());
