@@ -62,7 +62,7 @@ function updateNavbar() {
     } else {
         // buttons to append if login not present
        
-        </a>
+        buttons.innerHTML = `
         <a class="button is-primary is-dark" href ="https://github.com/dhairyagothi">
                   <strong>GitHub</strong>
                 </a>
