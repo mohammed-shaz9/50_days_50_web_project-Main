@@ -1,21 +1,3 @@
-# 100_days_100_web_project
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&weight=900&pause=1000&color=0FF26C&random=false&center=false&width=11000&height=1000&lines=Announcement:+ Contributors,+please+ensure+tasks+are+completed+within+assigned+timeframes+as+per+project+sidebar." alt="Announcement" />
-
-# 100_days_100_web_project
-
-
-Welcome to 100_days_100_web_project! learn and practise web development by contributing your projects.
-
-<a href="[https://github.com/Dhairyagoth](https://github.com/dhairyagothi)i"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DEF72C&random=false&center=false &width=1000&lines=Hi%2C+there.+If+you+like+100_days_100_web_project,+give+it+a+Star" alt="Typing SVG" /></a>
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2F100-days-100-web-project.vercel.app/%2F)](https://100-days-100-web-project.vercel.app/)
-[![Contributors](https://img.shields.io/github/contributors/100_days_100_web_project/100_days_100_web_project)](https://github.com/dhairyagothi/100_days_100_web_project)
 
 ## About
 
@@ -156,24 +138,7 @@ Follow these steps:
 - Push to the branch: `git push origin feature-name`
 - Submit a pull request detailing your changes.
 
-## Support
-
-For any questions or issues, feel free to reach out to us through our [disscusion](https://github.com/dhairyagothi/100_days_100_web_project/discussions) or by opening an [issue](https://github.com/dhairyagothi/100_days_100_web_project/issues) on GitHub.
-
-Stay updated with the latest news and announcements:
-
-- Follow me on [Instagram](https://www.instagram.com/dhairyaa__31/)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/dhairya-gothi-65945b288/)
 
 
 
-## Contributors ✨
 
-Thanks goes to these wonderful people :
-
-<center>
-<div>
-<!-- <a href="https://github.com/dhairyagothi/100_days_100_web_project/graphs/contributors"> -->
-  <img width="90%" src="https://contrib.rocks/image?repo=dhairyagothi/100_days_100_web_project" />
-</a>
-</div>
